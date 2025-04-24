@@ -6,6 +6,4 @@
 - 🌐 I’m the CEO of [AstralHost](https://astralhost.cloud), a modern and secure hosting provider.
 - 💼 Visit my personal website at [dopinderhub.it](https://dopinderhub.it) to learn more about my work and projects.
 - 🤝 I’m open to collaborations on web development, AI initiatives, and cybersecurity solutions.
-- ⚡ Fun fact: I love combining creativity, logic, and security to build powerful digital experiences.
-
 
